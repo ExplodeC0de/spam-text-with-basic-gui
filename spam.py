@@ -40,5 +40,5 @@ class TypingProgram:
 
 
 if __name__ == '__main__':
-    program = TypingProgram("Hello, EpsilonEnd :smiling_imp:!")
+    program = TypingProgram("Hello, you are a victim of this spamming script!")
     program.run()
