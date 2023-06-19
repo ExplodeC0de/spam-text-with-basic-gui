@@ -5,7 +5,7 @@ Hello, this project is a very good way to prank your friends, (It is really good
 # How to start
 1. clone the repo `https://github.com/ExplodeC0de/spam-text-with-basic-gui`
 2. install the packages needed by doing `pip install -r requirements.txt`
-3. test by running the `spam.py` file
+3. run the code by running the `spam.py` file
 
 
 # Notes:
